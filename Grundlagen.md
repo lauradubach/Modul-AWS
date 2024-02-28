@@ -1,6 +1,9 @@
 # Einführung 
 
 ## CAPEX vs. OPEX
+
+Capital Expenditure (Gebäude HW etc) / Operational Expenditure (Miete, Lizenzen, Leasing)
+
 ![CAPEX vs OPEX](https://github.com/lauradubach/Modul-AWS/blob/5d01026f2be6f2b01d6ca879f75f11f9b81c48e7/CAPEX%20vs%20OPEX.png)
 
 ## Cloud Service Models
