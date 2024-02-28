@@ -1,13 +1,13 @@
 # Einführung 
 
 ## CAPEX vs. OPEX
-![CAPEX vs OPEX]()
+![CAPEX vs OPEX](https://github.com/lauradubach/Modul-AWS/blob/5d01026f2be6f2b01d6ca879f75f11f9b81c48e7/CAPEX%20vs%20OPEX.png)
 
 ## Cloud Service Models
-![Vergleich]()
+![Vergleich](https://github.com/lauradubach/Modul-AWS/blob/5d01026f2be6f2b01d6ca879f75f11f9b81c48e7/Vergleich.png)
 
 ## Vorteile AWS Cloud
-![Vorteile]()
+![Vorteile](https://github.com/lauradubach/Modul-AWS/blob/5d01026f2be6f2b01d6ca879f75f11f9b81c48e7/Vorteile%20AWS.png)
 
 * Trade capital expense for variable expense
 * Stop guessing capasity
