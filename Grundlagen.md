@@ -18,4 +18,3 @@ Capital Expenditure (Gebäude HW etc) / Operational Expenditure (Miete, Lizenzen
 * Massive economies of scale
 * Increase speed and agility
 * Go global in minutes
-
