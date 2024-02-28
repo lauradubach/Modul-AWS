@@ -17,4 +17,6 @@ Capital Expenditure (Gebäude HW etc) / Operational Expenditure (Miete, Lizenzen
 * Increase speed and agility
 * Go global in minutes
 
-## IAM Berechtigungen 
+## AWS IAM 
+Identity and Access Management
+
